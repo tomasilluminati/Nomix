@@ -1,4 +1,4 @@
-# Nomix v1.0
+# Nomix v1.1
 ![License](https://img.shields.io/badge/license-MIT-red.svg)
 ![Version](https://img.shields.io/badge/version-1.0-brightgreen)
 ![Python Version](https://img.shields.io/badge/python-3.11-blue)
