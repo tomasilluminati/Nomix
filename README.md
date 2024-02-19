@@ -1,6 +1,6 @@
 # Nomix v1.1
 ![License](https://img.shields.io/badge/license-MIT-red.svg)
-![Version](https://img.shields.io/badge/version-1.0-brightgreen)
+![Version](https://img.shields.io/badge/version-1.1-brightgreen)
 ![Python Version](https://img.shields.io/badge/python-3.11-blue)
 
 
@@ -158,7 +158,7 @@ Returns a full name based on the specified genre (male/female) and nationality. 
 
 - "USA"
 - "ENGLISH"
-- FRENCH"
+- "FRENCH"
 - "SPANISH"
 - "RUSSIAN"
 - "GERMAN"
