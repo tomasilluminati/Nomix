@@ -4,7 +4,7 @@
 ![Python Version](https://img.shields.io/badge/python-3.11-blue)
 
 
-![logo](./logo/logo.png)
+![logo](https://github.com/tomasilluminati/Nomix/blob/main/logo/logo.png)
 
 ## Overview
 This Python module generates random names based on parameters such as gender and nationality. It provides functions to retrieve random names and last names from various cultures.
